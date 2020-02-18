@@ -54,6 +54,12 @@ body {
     height: 2px;
 }
 
+.hour-hand {
+    width: 30%;
+    transform-origin: 100% center;
+    
+}
+
 
 
   
