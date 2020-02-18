@@ -1,0 +1,35 @@
+html {
+    background: maroon;
+}
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    width: 100%;
+}
+
+.row {
+    text-align: center;
+    text-decoration: none;
+    border: 3px solid gray;
+    margin: 0 30px;
+    padding: 20px;
+    background: black;
+}
+
+a {
+    text-decoration: none;
+    font-family: monospace;
+    font-size: xx-large;
+    color: gray;
+}
+
+
+h1 {
+    font-family: monospace;
+    text-align: center;
+    color: gray;
+}
