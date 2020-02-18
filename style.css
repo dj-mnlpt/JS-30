@@ -34,3 +34,11 @@ h1 {
     text-align: center;
     color: gray;
 }
+
+.container {
+    display: block;
+}
+
+.Left {
+    margin-bottom: 20px;
+}

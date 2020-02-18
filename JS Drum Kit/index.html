@@ -73,7 +73,7 @@
         const key = document.querySelector(`div[data-key="${e.keyCode}"]`);
         if (!audio) return;
 
-        key.classList.add('playing');
+        key .classList.add('playing');
         audio.currentTime = 0;
         audio.play();
         }
@@ -81,8 +81,9 @@
         const keys = Array.from(document.querySelectorAll('.key'));
         keys.forEach(key => key.addEventListener('transitionend', removeTransition));
         window.addEventListener('keydown', playSound);
-    </script> -->
 
+    </script> -->
+    
     <script src="drumKit.js"></script>
 </body>
 </html>
