@@ -45,6 +45,6 @@ h1 {
     display: block;
 }
 
-.Left {
+.Left, .center, .right {
     margin-bottom: 20px;
 }
