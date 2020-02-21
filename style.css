@@ -17,7 +17,7 @@ body {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
-    font-family: 'Press Start 2P' ;
+    font-family: 'Press Start 2P';
 
 }
 
@@ -39,8 +39,8 @@ body {
 }
 
 .row:hover {
-    /* opacity: 0.5;
-    transform: scale(1,1.5); */  
+    /* opacity: 0.5; */
+    transform: scale(1,1.5);  
 }
 
 a {
@@ -151,6 +151,7 @@ h1:hover {
 
 .Left, .Center, .Right {
     margin-bottom: 20px;
+    height: 20%;
 }
 
 
