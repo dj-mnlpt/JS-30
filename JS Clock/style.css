@@ -56,16 +56,22 @@ body {
 .second-hand {
     height: 2px;
     background: gold;
+    width: 45%;
+    transform-origin: 100% center;
+    margin-left: 5%;
 }
 
 .hour-hand {
-    width: 35%;
+    width: 30%;
     transform-origin: 100% center;
-    margin-left: 15%;
+    margin-left: 20%;
     height: 6px;
 }
 
 .min-hand {
+    width: 45%;
+    transform-origin: 100% center;
+    margin-left: 5%;
     height: 4px;
 }
 
