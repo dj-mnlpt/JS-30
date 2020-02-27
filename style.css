@@ -151,7 +151,7 @@ h1:hover {
 
 .Left, .Center, .Right {
     margin-bottom: 20px;
-    height: 20%;
+    height: 15%;
 }
 
 
@@ -164,5 +164,8 @@ h1:hover {
 
 .main-header:hover {
    height: 100%;
-    
+}
+
+footer {
+    background: yellow;
 }
