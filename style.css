@@ -150,7 +150,6 @@ h1:hover {
 
 
 .Left, .Center, .Right {
-    margin-bottom: 20px;
     height: 15%;
 }
 
@@ -169,3 +168,11 @@ h1:hover {
 footer {
     background: yellow;
 }
+
+/* .header-container {
+    display: flex;
+}
+
+.logo img {
+   max-width: 20%;
+} */
